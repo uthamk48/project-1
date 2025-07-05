@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE >
+<html>
 <head>
   <title>www.studentattdence.com/</title>
   <meta charset="UTF-8">
@@ -102,5 +103,8 @@
 
   
 }
+     
       
    </script>
+   </body>
+  </html>
